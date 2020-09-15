@@ -22,4 +22,4 @@ class String
   end
 end
 
-"This", well, is a sentence. This is too!! And so is this, I think? Woo...".count_sentences_
+"This", well, is a sentence. This is too!! And so is this, I think? Woo...".count_sentences_words
