@@ -3,12 +3,12 @@ require 'pry'
 class String
 
   def sentence?
-    self_end with(?))
+    self.end_with(?))
     
   end
 
   def question?
-    self_end with
+    self.end_with(?)
   end
 
   def exclamation?
